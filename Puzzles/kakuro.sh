@@ -1,0 +1,16 @@
+./kakuro kakuro-puzzles/boss2.cfg
+./kakuro kakuro-puzzles/Kakuro_001.cfg
+./kakuro kakuro-puzzles/Kakuro_003.cfg
+./kakuro kakuro-puzzles/Kakuro_004.cfg
+./kakuro kakuro-puzzles/Kakuro_005.cfg
+./kakuro kakuro-puzzles/Kakuro_008.cfg
+./kakuro kakuro-puzzles/Kakuro_013.cfg
+./kakuro kakuro-puzzles/Kakuro_014.cfg
+./kakuro kakuro-puzzles/Kakuro_015.cfg
+./kakuro kakuro-puzzles/Kakuro_021.cfg
+./kakuro kakuro-puzzles/Kakuro_300.cfg
+./kakuro kakuro-puzzles/kakuro_evil.cfg
+./kakuro kakuro-puzzles/kakuro_hard.cfg
+./kakuro kakuro-puzzles/kakuro_killer.cfg
+./kakuro kakuro-puzzles/kakuro_medium.cfg
+./kakuro kakuro-puzzles/puzzle.cfg
