@@ -10,4 +10,4 @@ To invoke the program use:
   
 The puzzle solution will be placed in a file with .sol extension.
 
-This project was developed with Ricardo Vieira.
+This project was developed with João Bauto.
